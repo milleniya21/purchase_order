@@ -1,0 +1,20 @@
+.elements{
+    margin: 30px;
+}
+.title {
+    display: flex;
+    
+    
+}
+.title p{
+    border: 1px solid white;
+    background-color: grey;
+    padding: 5px 15px 5px 15px ;
+    border-radius: 4px;
+    
+}
+.main_section{
+    display: flex;
+    padding: 15px;
+}
+
