@@ -1,0 +1,43 @@
+table
+{
+  width: 100%;
+  background-color: white;
+}
+.item{
+    display: flex;
+}
+.white-image{
+    width: 15%;
+}
+.violet{
+    color: violet;
+}
+.cart_table  {
+  align-items: center;
+  margin: 15px;
+  
+}
+th , td
+{
+    
+   
+
+}
+ th
+ {
+   
+    background-color: white;
+    color: rgb(165, 157, 157);
+    
+    
+ }
+ tr:nth-child(even) {
+
+  background-color: rgb(231, 229, 229);
+ 
+
+  }
+  .variant {
+    align-items: center;
+    color: violet;
+  }

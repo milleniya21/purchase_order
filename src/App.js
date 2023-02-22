@@ -1,6 +1,8 @@
 import './App.css';
 import React from 'react' ;
 import Header from './header/header';
+import Table from './table/table';
+import Cost from './last/cost';
 
 function App ()  {
   return (
@@ -11,6 +13,8 @@ function App ()  {
         </h2>
         <div className='container'>
             <Header/>
+            <Table/>
+            <Cost/>
         </div>
     </div>
   );
